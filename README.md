@@ -5,6 +5,8 @@ Use the heart disease data from UCI Machine Learning Repository to first provide
 INTRODUCTION
 Heart disease is the leading cause of death in the United States. The frequency of this disease is increasing. Many factors will increase the risk for heart disease such as high cholesterol, high blood pressure, and diabetes. This study is going to use the heart disease data from UCI Machine Learning Repository to first provide an overview of current heart disease patterns and then use machine learning methods to make predictions of whether an individual has disease or not. We compare the methods will finally choose the best method which has highest prediction accuracy. This results of this study can help choose the suitable model to make prediction of the heart disease.
 The dataset includes 303 samples. 13 attributes used in this dataset are the ones which will have effect on the heart disease. The attribute ‘num’ is the diagnosis of heart disease. The description of the attributes are as follows,
+
+
 age​: age in years
 sex​: sex(1 = male; 0 = female) cp​: chest pain type
 -- Value 1: typical angina
